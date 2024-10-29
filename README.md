@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <img width="1469" alt="SmartCart" src="https://sakshit2004.github.io/SmartCart/images/logo.png">
+  <img width="1469" alt="SmartCart" src="https://raw.githubusercontent.com/sakshit2004/SmartCart/refs/heads/main/RootCart%20IMG.png">
 </p>
 
 <p align="center">
